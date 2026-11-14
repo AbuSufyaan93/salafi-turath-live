@@ -1,0 +1,1 @@
+Tesseract.js 7 worker and Tesseract.js-core bundled from npm. Apache-2.0. Language data: @tesseract.js-data/ara, urd, eng 1.0.0, 4.0.0_best_int. These assets run on device; OCR results require review. Models are downloaded only when the OCR tool is invoked.
