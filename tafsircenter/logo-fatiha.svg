@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="96" fill="#F4F1E8" stroke="#B79851" stroke-width="3"/>
+  <circle cx="100" cy="100" r="84" fill="none" stroke="#CFBA8B" stroke-width="1" stroke-dasharray="3 5"/>
+  <!-- open book -->
+  <path d="M40 118 Q70 104 98 116 L98 70 Q70 58 40 72 Z" fill="#586931"/>
+  <path d="M160 118 Q130 104 102 116 L102 70 Q130 58 160 72 Z" fill="#627536"/>
+  <path d="M98 116 Q100 113 102 116 L102 70 Q100 67 98 70 Z" fill="#3C4A22"/>
+  <!-- rays -->
+  <g stroke="#B79851" stroke-width="2" stroke-linecap="round">
+    <line x1="100" y1="52" x2="100" y2="40"/>
+    <line x1="78" y1="56" x2="72" y2="46"/>
+    <line x1="122" y1="56" x2="128" y2="46"/>
+  </g>
+  <!-- arabic wordmark -->
+  <text x="100" y="150" text-anchor="middle" font-family="system-ui,'Segoe UI',Arial,sans-serif" font-size="26" font-weight="700" fill="#977C3F">الفاتحة</text>
+  <text x="100" y="172" text-anchor="middle" font-family="system-ui,'Segoe UI',Arial,sans-serif" font-size="11" letter-spacing="1" fill="#627536">تعليم تفاعلي</text>
+</svg>
