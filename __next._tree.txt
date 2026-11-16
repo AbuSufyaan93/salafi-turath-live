@@ -1,6 +1,6 @@
 :HL["/salafi-turath-live/_next/static/css/baf76dccef61267a.css","style"]
 :HL["/salafi-turath-live/_next/static/css/1596ee735db45788.css","style"]
 :HL["/salafi-turath-live/_next/static/css/166b800d8da24435.css","style"]
-:HL["/salafi-turath-live/_next/static/css/2a2de306b4533046.css","style"]
+:HL["/salafi-turath-live/_next/static/css/f73dc4616b6cb51a.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Amiri+Quran&family=Cairo:wght@400;600;700;800&family=Gulzar&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&family=Noto+Naskh+Arabic:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"ZGPB10OwevOV17wUiDpR7"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"gt8kiF4DbBX1txfUj3Tkz"}
