@@ -12,7 +12,7 @@
       "num": 1,
       "folder_id": "1Pcb0XChJaie0NR4tPCqGsBcYO7GrUw9X",
       "title_ur": "سلفی تراث اردو (نجی مرکزی مکتبہ)",
-      "title_ar": "مكتبة التراث السلفي الأردية الخاصة",
+      "title_ar": "مكتبة التراث السلفي الخاصة (الأردية والعربية)",
       "category_ur": "عقیدہ، حدیث، تفسیر، فقہ و فتاویٰ",
       "tier_label_ur": "درجہ اول: معتمد سلفی مصادر",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -24,14 +24,20 @@
       "pages_count": 670228,
       "pdfs_count": 79,
       "archive_total": 982,
-      "shard_file": "maktaba_01_salafi_turath.json"
+      "shard_file": "maktaba_01_salafi_turath.json",
+      "ur_books_count": 980,
+      "ar_books_count": 52,
+      "category_ar": "العقيدة والحديث والتفسير والفقه والفتاوى",
+      "tier_label_ar": "الطبقة الأولى: المصادر السلفية المعتمدة",
+      "desc_ar": "جميع الكتب المعتمدة (٩٨٢ كتابًا) و٦٧٠,٢٢٨ صفحة وحديثًا و٦٩ نسخة مصورة محفوظة بالكامل.",
+      "primary_lang": "ur"
     },
     {
       "id": "maktaba_02_kitabosunnat",
       "num": 2,
       "folder_id": "1tMzP6CRkJ-XV9PFVn00yCRW4U0zNDNiB",
       "title_ur": "مکتبہ کتاب و سنت (اردو پی ڈی ایف ذخیرہ)",
-      "title_ar": "مكتبة الكتاب والسنة الأردية",
+      "title_ar": "مكتبة الكتاب والسنة الأردية المصورة",
       "category_ur": "اردو اسلامی و تحقیقی کتب (PDF + تعارف)",
       "tier_label_ur": "درجہ اول: معتمد سلفی اردو کتب",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -43,7 +49,13 @@
       "pages_count": 814687,
       "pdfs_count": 2359,
       "archive_total": 9239,
-      "shard_file": "maktaba_02_kitabosunnat.json"
+      "shard_file": "maktaba_02_kitabosunnat.json",
+      "ur_books_count": 2476,
+      "ar_books_count": 0,
+      "category_ar": "الكتب السلفية الأردية والفتاوى والشروح",
+      "tier_label_ar": "الطبقة الأولى: المكتبة السلفية الأردية",
+      "desc_ar": "أكبر خزانة للكتب السلفية الأردية المصورة والمفهرسة مع إمكانية المطالعة المباشرة.",
+      "primary_lang": "ur"
     },
     {
       "id": "maktaba_03_shamela_dhahabiya",
@@ -62,14 +74,20 @@
       "pages_count": 408071,
       "pdfs_count": 1,
       "archive_total": 34742,
-      "shard_file": "maktaba_03_shamela_dhahabiya.json"
+      "shard_file": "maktaba_03_shamela_dhahabiya.json",
+      "ur_books_count": 0,
+      "ar_books_count": 2200,
+      "category_ar": "أمهات الكتب والتراث الإسلامي الأصيل",
+      "tier_label_ar": "الطبقة الأولى والثانية: التراث الإسلامي",
+      "desc_ar": "أمهات كتب التراث الإسلامي وفهارس الأبواب وبطاقات الكتب والنسخ المصورة.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_04_aljam3",
       "num": 4,
       "folder_id": "1SZvAQnWLpsKwn_KbYkDKQv-f_e40Dtyk",
       "title_ur": "موسوعۃ الجامع (وقفیہ و مسجد نبوی ذخیرہ)",
-      "title_ar": "الجامع للكتب المصورة والنصية",
+      "title_ar": "الجامع للكتب الإسلامية الشاملة",
       "category_ur": "مکتبہ مسجد نبوی، وقفیہ و شاملہ وقفیہ",
       "tier_label_ur": "درجہ اول و دوم: جامع تراث و مصورات",
       "manhaj_tier": "TIER_1_CLASSICAL_TURATH",
@@ -81,14 +99,20 @@
       "pages_count": 10212801,
       "pdfs_count": 2500,
       "archive_total": 63427,
-      "shard_file": "maktaba_04_aljam3.json"
+      "shard_file": "maktaba_04_aljam3.json",
+      "ur_books_count": 0,
+      "ar_books_count": 2500,
+      "category_ar": "المتون المحققة والنسخ المصورة",
+      "tier_label_ar": "الطبقة الأولى: المتون المحققة",
+      "desc_ar": "خزانة متكاملة تجمع بين النصوص الرقمية المحققة والنسخ المصورة المتزامنة.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_05_ketabonline",
       "num": 5,
       "folder_id": "1z5j8NWDM-VL4yRHgObFuTC3O0iq9rGqT",
       "title_ur": "جامع الکتب الاسلامیۃ (KetabOnline)",
-      "title_ar": "جامع الكتب الإسلامية",
+      "title_ar": "خزانة كتاب أونلاين للطبعات المحققة",
       "category_ur": "مکمل متون، تراجم و فہارسِ کتب",
       "tier_label_ur": "درجہ اول و دوم: محققہ اسلامی کتب",
       "manhaj_tier": "TIER_1_CLASSICAL_TURATH",
@@ -100,14 +124,20 @@
       "pages_count": 5254846,
       "pdfs_count": 1044,
       "archive_total": 30093,
-      "shard_file": "maktaba_05_ketabonline.json"
+      "shard_file": "maktaba_05_ketabonline.json",
+      "ur_books_count": 0,
+      "ar_books_count": 2201,
+      "category_ar": "الكتب الشرعية والطبعات المحققة",
+      "tier_label_ar": "الطبقة الأولى: الطبعات المحققة",
+      "desc_ar": "آلاف الطبعات الشرعية المحققة في التفسير والحديث والعقيدة والفقه والتاريخ.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_06_ulama_74",
       "num": 6,
       "folder_id": "1HRVIEbkX85HpiR-i83bDmOTIpd-JT_Jl",
       "title_ur": "موسوعاتِ کبار العلماء (۷۴ ائمہ و محدثین)",
-      "title_ar": "موسوعات العلماء الربانيين (٧٤ عالماً)",
+      "title_ar": "موسوعات أعلام السلف والعلماء (٧٤ عالمًا)",
       "category_ur": "فتاویٰ، شروح، رسائل و مخطوطاتِ ائمہ",
       "tier_label_ur": "درجہ اول: ائمہ سلف و کبار علماء",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -119,14 +149,20 @@
       "pages_count": 567,
       "pdfs_count": 340,
       "archive_total": 88923,
-      "shard_file": "maktaba_06_ulama_74.json"
+      "shard_file": "maktaba_06_ulama_74.json",
+      "ur_books_count": 0,
+      "ar_books_count": 567,
+      "category_ar": "مؤلفات وفتاوى وشروح أئمة الدعوة والسلف",
+      "tier_label_ar": "الطبقة الأولى: ابن تيمية وابن القيم وابن باز والألباني وابن عثيمين",
+      "desc_ar": "المؤلفات الكاملة والفتاوى والدروس العلمية لـ ٧٤ من كبار أئمة السلف والعلماء المعاصرين.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_07_dorar_hadith_urdu",
       "num": 7,
       "folder_id": "1_zleFMi7Dw3ivqBsUdvJGK10mC6BDPRC",
       "title_ur": "الموسوعۃ الحدیثیۃ مع شرح و اردو ترجمہ",
-      "title_ar": "الموسوعة الحديثية مع الشرح والترجمة الأردية",
+      "title_ar": "الموسوعة الحديثية المترجمة (الدرر السنية — الأردية)",
       "category_ur": "احادیث، تخریج، حکم اور اردو شرح",
       "tier_label_ur": "درجہ اول: معتمد موسوعۂ حدیث",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -138,14 +174,20 @@
       "pages_count": 8280,
       "pdfs_count": 0,
       "archive_total": 8280,
-      "shard_file": "maktaba_07_dorar_hadith_urdu.json"
+      "shard_file": "maktaba_07_dorar_hadith_urdu.json",
+      "ur_books_count": 333,
+      "ar_books_count": 0,
+      "category_ar": "الأحاديث النبوية وأحكام المحدثين بالترجمة الأردية",
+      "tier_label_ar": "الطبقة الأولى: التخريج وأحكام المحدثين",
+      "desc_ar": "تخريج الأحاديث وبيان درجتها مع الترجمة الأردية الدقيقة.",
+      "primary_lang": "ur"
     },
     {
       "id": "maktaba_08_jami_mawsuat_hadith",
       "num": 8,
       "folder_id": "1AWLXNcJfjJLY2yebcohJfC4wha_NscMd",
       "title_ur": "جامع موسوعات الحدیثیۃ (اردو و عربی شروح)",
-      "title_ar": "جامع الموسوعات الحديثية وشروح السنة",
+      "title_ar": "جامع الموسوعات الحديثية والشروح",
       "category_ur": "صحیحین حواشی، غریب الحدیث و اردو شروح",
       "tier_label_ur": "درجہ اول: شروحِ سنت و صحیحین",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -157,14 +199,20 @@
       "pages_count": 980,
       "pdfs_count": 0,
       "archive_total": 50967,
-      "shard_file": "maktaba_08_jami_mawsuat_hadith.json"
+      "shard_file": "maktaba_08_jami_mawsuat_hadith.json",
+      "ur_books_count": 198,
+      "ar_books_count": 24,
+      "category_ar": "شروح الحديث النبوي والتخريج",
+      "tier_label_ar": "الطبقة الأولى: دواوين السنة وشروحها",
+      "desc_ar": "موسوعة شاملة لمتون السنة وشروحها باللغتين الأردية والعربية.",
+      "primary_lang": "ur"
     },
     {
       "id": "maktaba_09_hadith_search",
       "num": 9,
       "folder_id": "1c7w9HLYONrrdcvqh7uPhQdE0sAOqHmLA",
       "title_ur": "حدیث سرچ و نقدِ روایات (بوابۃ الحدیث)",
-      "title_ar": "بوابة الحديث وخادم السنة ونقد الموضوعات",
+      "title_ar": "الباحث الحديثي — دواوين السنة الأصيلة",
       "category_ur": "کتبِ حدیث، تراجمِ محدثین و احادیثِ ضعیفہ کی تحقیق",
       "tier_label_ur": "درجہ اول: تحقیق و تخریجِ حدیث",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -176,14 +224,20 @@
       "pages_count": 2288,
       "pdfs_count": 0,
       "archive_total": 8195,
-      "shard_file": "maktaba_09_hadith_search.json"
+      "shard_file": "maktaba_09_hadith_search.json",
+      "ur_books_count": 0,
+      "ar_books_count": 101,
+      "category_ar": "الصحاح والسنن والمسانيد",
+      "tier_label_ar": "الطبقة الأولى: متون السنة المسندة",
+      "desc_ar": "البحث الفوري في دواوين السنة النبوية المشرفة وأحكام الأئمة الحفاظ.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_10_quran_search_salafi",
       "num": 10,
       "folder_id": "1I5WFn8fePavAeWpjpAfUQwh0PY0zviyT",
       "title_ur": "قرآن سرچ و جامع تفاسیرِ سلفیہ (اردو و عربی)",
-      "title_ar": "موسوعة التفسير السلفي والترجمات الأردية (١١٤ سورة)",
+      "title_ar": "الباحث القرآني — تفاسير السلف المعتمدة",
       "category_ur": "۱۱۴ سورتوں کی مکمل اردو و عربی سلفی تفاسیر",
       "tier_label_ur": "درجہ اول: تفاسیرِ سلف صالحین",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -195,14 +249,20 @@
       "pages_count": 195,
       "pdfs_count": 0,
       "archive_total": 609,
-      "shard_file": "maktaba_10_quran_search_salafi.json"
+      "shard_file": "maktaba_10_quran_search_salafi.json",
+      "ur_books_count": 26,
+      "ar_books_count": 20,
+      "category_ar": "التفسير بالمأثور وتفاسير السلف",
+      "tier_label_ar": "الطبقة الأولى: تفاسير أهل السنة",
+      "desc_ar": "تفاسير السلف المعتمدة بالعربية والأردية مرتبة على السور والآيات.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_11_mawsuah_quraniyyah",
       "num": 11,
       "folder_id": "1xq0dIfrfjea49cqYD55amb5FmyE_9Ht3",
       "title_ur": "الموسوعۃ القرآنیۃ (علومِ قرآن و مصورات)",
-      "title_ar": "الموسوعة القرآنية وعلوم التنزيل",
+      "title_ar": "الموسوعة القرآنية الشاملة وعلوم القرآن",
       "category_ur": "علوم القرآن، قراءات، اعراب و مصور کتب",
       "tier_label_ur": "درجہ اول و دوم: علوم القرآن",
       "manhaj_tier": "TIER_1_CLASSICAL_TURATH",
@@ -214,14 +274,20 @@
       "pages_count": 2000,
       "pdfs_count": 2000,
       "archive_total": 14798,
-      "shard_file": "maktaba_11_mawsuah_quraniyyah.json"
+      "shard_file": "maktaba_11_mawsuah_quraniyyah.json",
+      "ur_books_count": 0,
+      "ar_books_count": 2000,
+      "category_ar": "علوم القرآن والقراءات والتفسير",
+      "tier_label_ar": "الطبقة الأولى: الدراسات القرآنية والمصورات",
+      "desc_ar": "ألفا مصنف وبحث في علوم القرآن والتفسير والقراءات مع النسخ المصورة.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_12_tafsir_center",
       "num": 12,
       "folder_id": "1TM-YIjmDjLqhjbgMfQtbME3rEfLKnjhK",
       "title_ur": "مرکز تفسیر للدراسات القرآنیۃ",
-      "title_ar": "مركز تفسير للدراسات القرآنية",
+      "title_ar": "إصدارات مركز تفسير للدراسات القرآنية",
       "category_ur": "قرآنی منصوبہ جات، موسوعات و تحقیقی پورٹلز",
       "tier_label_ur": "درجہ اول: تخصصی قرآنی تحقیقات",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -233,14 +299,20 @@
       "pages_count": 36,
       "pdfs_count": 0,
       "archive_total": 36,
-      "shard_file": "maktaba_12_tafsir_center.json"
+      "shard_file": "maktaba_12_tafsir_center.json",
+      "ur_books_count": 0,
+      "ar_books_count": 36,
+      "category_ar": "المشاريع والموسوعات القرآنية المحكمة",
+      "tier_label_ar": "الطبقة الأولى: إصدارات مركز تفسير",
+      "desc_ar": "الإصدارات العلمية والموسوعات المحكمة الصادرة عن مركز تفسير للدراسات القرآنية.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_13_tafsir_mawdui",
       "num": 13,
       "folder_id": "13JpLn4zfWm2sJvfYpVpw4dVWOS8xse6c",
       "title_ur": "موسوعۃ التفسیر الموضوعی للقرآن الکریم",
-      "title_ar": "موسوعة التفسير الموضوعي للقرآن الكريم (٣٥٦ بحثاً)",
+      "title_ar": "موسوعة التفسير الموضوعي للقرآن الكريم",
       "category_ur": "۳۵۶ محکم موضوعاتی قرآنی ابحاث (متن + PDF)",
       "tier_label_ur": "درجہ اول: محکم اکادمی قرآنی موسوعہ",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -252,14 +324,20 @@
       "pages_count": 9432,
       "pdfs_count": 356,
       "archive_total": 356,
-      "shard_file": "maktaba_13_tafsir_mawdui.json"
+      "shard_file": "maktaba_13_tafsir_mawdui.json",
+      "ur_books_count": 0,
+      "ar_books_count": 356,
+      "category_ar": "البحوث القرآنية الموضوعية المحكمة (٣٥٦ بحثًا)",
+      "tier_label_ar": "الطبقة الأولى: التفسير الموضوعي (نص + PDF)",
+      "desc_ar": "٣٥٦ بحثًا علميًا محكمًا في موضوعات القرآن الكريم بالنص الكامل والنسخة المصورة.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_14_mawsuah_aqadiyyah_v4",
       "num": 14,
       "folder_id": "1ao3GA4pvZYUNz22wCwk6H07ajr3vVFBy",
       "title_ur": "الموسوعۃ العقدیۃ الاصدار الرابع (۱,۱۴۵ مصورات + متون)",
-      "title_ar": "الموسوعة العقدية — الإصدار الرابع",
+      "title_ar": "الموسوعة العقدية الشاملة — الإصدار الرابع",
       "category_ur": "عقیدہ اہل السنہ کی ۱,۱۴۵ کتب و ابحاث (متن + PDF)",
       "tier_label_ur": "درجہ اول: عقیدۂ سلف صالحین",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -271,7 +349,13 @@
       "pages_count": 1364,
       "pdfs_count": 1187,
       "archive_total": 1187,
-      "shard_file": "maktaba_14_mawsuah_aqadiyyah_v4.json"
+      "shard_file": "maktaba_14_mawsuah_aqadiyyah_v4.json",
+      "ur_books_count": 0,
+      "ar_books_count": 1187,
+      "category_ar": "عقيدة أهل السنة والجماعة والرد على الفرق",
+      "tier_label_ar": "الطبقة الأولى: متون ومصورات العقيدة السلفية",
+      "desc_ar": "أكثر من ١,١٨٧ كتابًا وبحثًا في تقرير عقيدة السلف الصالح مع النسخ المصورة.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_15_minassah_aqadiyyah",
@@ -290,14 +374,20 @@
       "pages_count": 2771,
       "pdfs_count": 0,
       "archive_total": 22692,
-      "shard_file": "maktaba_15_minassah_aqadiyyah.json"
+      "shard_file": "maktaba_15_minassah_aqadiyyah.json",
+      "ur_books_count": 0,
+      "ar_books_count": 142,
+      "category_ar": "متون وشروح التوحيد والأسماء والصفات",
+      "tier_label_ar": "الطبقة الأولى: التأصيل العقدي",
+      "desc_ar": "متون العقيدة وشروحها ومباحث الأسماء الحسنى والمحرمات العقدية.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_16_aqeedat_almuslim",
       "num": 16,
       "folder_id": "1mA5vzP232ehUxHkyBly151_LeeOfT2jc",
       "title_ur": "موقع عقیدۃ المسلم (کتب، فتاویٰ و مقالات)",
-      "title_ar": "موقع عقيدة المسلم",
+      "title_ar": "خزانة موقع عقيدة المسلم",
       "category_ur": "توحید، منہجِ سلف، عقدی فتاویٰ و کتب",
       "tier_label_ur": "درجہ اول: عقیدہ و منہجِ سلف",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -309,7 +399,13 @@
       "pages_count": 1404,
       "pdfs_count": 1260,
       "archive_total": 1402,
-      "shard_file": "maktaba_16_aqeedat_almuslim.json"
+      "shard_file": "maktaba_16_aqeedat_almuslim.json",
+      "ur_books_count": 0,
+      "ar_books_count": 1390,
+      "category_ar": "كتب وفتاوى ومقالات التوحيد والمنهج",
+      "tier_label_ar": "الطبقة الأولى: التوحيد ومنهج السلف",
+      "desc_ar": "مجموعة كبيرة من كتب التوحيد والفتاوى العقدية والمقالات المنهجية مع PDF.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_17_majallat_aqadiyyah",
@@ -328,7 +424,13 @@
       "pages_count": 220,
       "pdfs_count": 176,
       "archive_total": 220,
-      "shard_file": "maktaba_17_majallat_aqadiyyah.json"
+      "shard_file": "maktaba_17_majallat_aqadiyyah.json",
+      "ur_books_count": 0,
+      "ar_books_count": 220,
+      "category_ar": "الأبحاث الأكاديمية المحكمة في العقيدة",
+      "tier_label_ar": "الطبقة الأولى: بحوث أكاديمية محكمة",
+      "desc_ar": "٢٢٠ بحثًا أكاديميًا محكمًا في قضايا العقيدة والفرق المعاصرة (نص + PDF).",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_18_salaf_center",
@@ -347,7 +449,13 @@
       "pages_count": 11067,
       "pdfs_count": 739,
       "archive_total": 1563,
-      "shard_file": "maktaba_18_salaf_center.json"
+      "shard_file": "maktaba_18_salaf_center.json",
+      "ur_books_count": 0,
+      "ar_books_count": 1415,
+      "category_ar": "الأوراق العلمية والدراسات الفكرية والعقدية",
+      "tier_label_ar": "الطبقة الأولى: دراسات وأوراق علمية محكمة",
+      "desc_ar": "أكثر من ١,٤١٥ ورقة علمية وبحثًا محكمًا في القضايا الفكرية والعقدية المعاصرة.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_19_mawsuat_fatawa",
@@ -366,7 +474,13 @@
       "pages_count": 2717,
       "pdfs_count": 0,
       "archive_total": 1927,
-      "shard_file": "maktaba_19_mawsuat_fatawa.json"
+      "shard_file": "maktaba_19_mawsuat_fatawa.json",
+      "ur_books_count": 0,
+      "ar_books_count": 935,
+      "category_ar": "فتاوى اللجنة الدائمة وكبار العلماء",
+      "tier_label_ar": "الطبقة الأولى: الفتاوى المعتمدة وأحاديث الأحكام",
+      "desc_ar": "فتاوى اللجنة الدائمة للبحوث العلمية والإفتاء وكبار العلماء وأحاديث الأحكام.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_20_fiqh_qadaya_muasirah",
@@ -385,7 +499,13 @@
       "pages_count": 5774,
       "pdfs_count": 10,
       "archive_total": 1288,
-      "shard_file": "maktaba_20_fiqh_qadaya_muasirah.json"
+      "shard_file": "maktaba_20_fiqh_qadaya_muasirah.json",
+      "ur_books_count": 0,
+      "ar_books_count": 1284,
+      "category_ar": "فقه النوازل والمعاملات المالية والطبية المعاصرة",
+      "tier_label_ar": "الطبقة الأولى: قرارات المجامع وبحوث النوازل",
+      "desc_ar": "١,٢٨٤ بحثًا محكمًا في فقه القضايا والنوازل المعاصرة مع المجلدات المصورة.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_21_rasail_jamiyyah",
@@ -404,7 +524,13 @@
       "pages_count": 1367570,
       "pdfs_count": 1697,
       "archive_total": 5339,
-      "shard_file": "maktaba_21_rasail_jamiyyah.json"
+      "shard_file": "maktaba_21_rasail_jamiyyah.json",
+      "ur_books_count": 0,
+      "ar_books_count": 2000,
+      "category_ar": "رسائل الماجستير والدكتوراه في العلوم الشرعية",
+      "tier_label_ar": "الطبقة الأولى والثانية: الرسائل الجامعية المحكمة",
+      "desc_ar": "ألفا رسالة ماجستير ودكتوراه في العقيدة والتفسير والحديث والفقه وأصوله.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_22_maknaz_rasail",
@@ -423,14 +549,20 @@
       "pages_count": 2827,
       "pdfs_count": 30,
       "archive_total": 8391,
-      "shard_file": "maktaba_22_maknaz_rasail.json"
+      "shard_file": "maktaba_22_maknaz_rasail.json",
+      "ur_books_count": 0,
+      "ar_books_count": 2827,
+      "category_ar": "كشاف الرسائل العلمية ومداخل العلوم وتحقيق التراث",
+      "tier_label_ar": "الطبقة الأولى والثانية: الأدلة والبحوث التخصصية",
+      "desc_ar": "أدلة الرسائل العلمية ومداخل العلوم الشرعية وبحوث تحقيق المخطوطات.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_23_almanzumah",
       "num": 23,
       "folder_id": "1EuOz1UsMsO1WdtFPRoFmAmkryhI6HVyw",
       "title_ur": "المنظومۃ (دار المنظومہ اکادمی بحوث و مستخلصات)",
-      "title_ar": "قاعدة المنظومة للبحوث والرسائل الأكاديمية",
+      "title_ar": "قاعدة المنظومة للرسائل والبحوث الأكاديمية",
       "category_ur": "محکم جامعاتی مستخلصات و کراس ریفرنس بحوث",
       "tier_label_ur": "درجہ اول و دوم: اکادمی ڈیٹا بیس",
       "manhaj_tier": "TIER_1_CLASSICAL_TURATH",
@@ -442,14 +574,20 @@
       "pages_count": 876494,
       "pdfs_count": 1038,
       "archive_total": 5339,
-      "shard_file": "maktaba_23_almanzumah.json"
+      "shard_file": "maktaba_23_almanzumah.json",
+      "ur_books_count": 0,
+      "ar_books_count": 1200,
+      "category_ar": "الرسائل الجامعية والمستخلصات الأكاديمية المحكمة",
+      "tier_label_ar": "الطبقة الثانية: البحوث الأكاديمية والجامعية",
+      "desc_ar": "بحوث ومستخلصات علمية محكمة من الجامعات الإسلامية والعربية.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_24_mutoon_masjid_nabawi",
       "num": 24,
       "folder_id": "1LQEUwyA-2xGOkvjJVlhvUsEyMb19rGmk",
       "title_ur": "المتون العلمیۃ بالمسجد النبوی (متون + ۲۲ PDF)",
-      "title_ar": "المتون العلمية بالمسجد النبوي الشريف",
+      "title_ar": "المتون العلمية بحلقات المسجد النبوي الشريف",
       "category_ur": "حلقاتِ مسجد نبوی کے نصابی متون (متن + PDF)",
       "tier_label_ur": "درجہ اول: نصابِ مسجد نبوی شریف",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -461,14 +599,20 @@
       "pages_count": 66,
       "pdfs_count": 45,
       "archive_total": 66,
-      "shard_file": "maktaba_24_mutoon_masjid_nabawi.json"
+      "shard_file": "maktaba_24_mutoon_masjid_nabawi.json",
+      "ur_books_count": 0,
+      "ar_books_count": 66,
+      "category_ar": "المتون العلمية المقررة وشروحها",
+      "tier_label_ar": "الطبقة الأولى: متون طالب العلم (نص + PDF)",
+      "desc_ar": "جميع مستويات المتون العلمية المقررة في المسجد النبوي الشريف مع النسخ المصورة.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_25_ataat_alilm",
       "num": 25,
       "folder_id": "1fndMJOxNrqbLCmBYCBZduLcDGEd0gyBR",
       "title_ur": "عطاءات العلم (تحقیقاتِ تراث و مطبوعات)",
-      "title_ar": "دار عطاءات العلم لتحقيق التراث",
+      "title_ar": "إصدارات دار عطاءات العلم لتحقيق التراث",
       "category_ur": "تحقیقِ مخطوطات، مقالاتِ علمیہ و مصور مطبوعات",
       "tier_label_ur": "درجہ اول: محققہ تراثِ سلف",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -480,14 +624,20 @@
       "pages_count": 6013,
       "pdfs_count": 360,
       "archive_total": 814,
-      "shard_file": "maktaba_25_ataat_alilm.json"
+      "shard_file": "maktaba_25_ataat_alilm.json",
+      "ur_books_count": 0,
+      "ar_books_count": 814,
+      "category_ar": "تحقيق المخطوطات والمطبوعات التراثية المتقنة",
+      "tier_label_ar": "الطبقة الأولى: الطبعات التراثية المحققة",
+      "desc_ar": "إصدارات دار عطاءات العلم المحققة على أصول خطية نفيسة مع المصورات.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_26_islamhouse",
       "num": 26,
       "folder_id": "1l5bjkY6wiq4LuQXN40Sg8BMSOiRdjsYC",
       "title_ur": "دار الاسلام — اسلام ہاؤس (اردو و عربی ذخیرہ)",
-      "title_ar": "دار الإسلام — المكتبة الأردية والعربية",
+      "title_ar": "دار الإسلام (إسلام هاوس) — الخزانة الأردية",
       "category_ur": "اردو و عربی دعوتی کتب، مقالات و فتاویٰ",
       "tier_label_ur": "درجہ اول: مستند اردو و عربی دعوتی ذخیرہ",
       "manhaj_tier": "TIER_1_CORE_SALAFI",
@@ -499,14 +649,20 @@
       "pages_count": 1715,
       "pdfs_count": 0,
       "archive_total": 1240,
-      "shard_file": "maktaba_26_islamhouse.json"
+      "shard_file": "maktaba_26_islamhouse.json",
+      "ur_books_count": 951,
+      "ar_books_count": 2,
+      "category_ar": "الكتب والمقالات والفتاوى الدعوية والعقدية",
+      "tier_label_ar": "الطبقة الأولى: الدعوة والعقيدة على منهج السلف",
+      "desc_ar": "كتب ومطويات وفتاوى علمية ودعوية موثقة باللغة الأردية.",
+      "primary_lang": "ur"
     },
     {
       "id": "maktaba_27_alnnahwi",
       "num": 27,
       "folder_id": "1C9D61DEihfB_hUxrszsNBHIGbuCd4xXt",
       "title_ur": "النحوی (علومِ لغت، نحو و صرف)",
-      "title_ar": "موسوعة النحوي لعلوم اللغة العربية",
+      "title_ar": "موسوعة النحوي لعلوم اللغة العربية [مرجع لغوي]",
       "category_ur": "عربی قواعد، نحو، صرف و بلاغت [درجہ سوم: لغوی مراجع]",
       "tier_label_ur": "درجہ سوم: صرف لغوی و نحوی مراجع (شرعی استدلال ممنوع)",
       "manhaj_tier": "TIER_3_LINGUISTIC_LITERARY",
@@ -518,14 +674,20 @@
       "pages_count": 35,
       "pdfs_count": 0,
       "archive_total": 36,
-      "shard_file": "maktaba_27_alnnahwi.json"
+      "shard_file": "maktaba_27_alnnahwi.json",
+      "ur_books_count": 0,
+      "ar_books_count": 35,
+      "category_ar": "النحو والصرف والبلاغة وعلوم العربية",
+      "tier_label_ar": "🔒 الطبقة الثالثة: مراجع لغوية ونحوية فقط (ممنوعة من الاستدلال الشرعي)",
+      "desc_ar": "مصادر النحو والصرف والبلاغة للتحليل اللغوي فقط، معزولة عن الفتوى والاستدلال الشرعي.",
+      "primary_lang": "ar"
     },
     {
       "id": "maktaba_28_rekhta_urdu",
       "num": 28,
       "folder_id": "17_xVViK0LwcKZpTKh4qPD8aext_ZjEQI",
       "title_ur": "ریختہ اردو لائبریری (اردو لغت، ادب و تاریخ)",
-      "title_ar": "مكتبة ريخته للأدب واللغة الأردية",
+      "title_ar": "مكتبة ريخته للأدب واللغة الأردية [مرجع أدبي]",
       "category_ur": "اردو لغت، تراجمِ ادباء و کلاسیکی اردو متون [درجہ سوم: ادبی مراجع]",
       "tier_label_ur": "درجہ سوم: صرف لغوی و ادبی مراجع (شرعی استدلال ممنوع)",
       "manhaj_tier": "TIER_3_LINGUISTIC_LITERARY",
@@ -537,7 +699,15 @@
       "pages_count": 513845,
       "pdfs_count": 0,
       "archive_total": 54896,
-      "shard_file": "maktaba_28_rekhta_urdu.json"
+      "shard_file": "maktaba_28_rekhta_urdu.json",
+      "ur_books_count": 1393,
+      "ar_books_count": 0,
+      "category_ar": "معاجم اللغة الأردية والتاريخ والأدب",
+      "tier_label_ar": "🔒 الطبقة الثالثة: مراجع لغوية وأدبية فقط (ممنوعة من الاستدلال الشرعي)",
+      "desc_ar": "مراجع اللغة والأدب الأردي للبحث اللساني والتاريخي فقط، معزولة تمامًا عن الاستدلال الشرعي.",
+      "primary_lang": "ur"
     }
-  ]
+  ],
+  "total_urdu_books": 6357,
+  "total_arabic_books": 23574
 }
